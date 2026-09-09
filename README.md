@@ -14,3 +14,5 @@ It is built around one simple idea:
 If your model already knows where the colors belong, why should you have to guess where to split it?
 
 Cleave follows the existing color regions in your model and creates cuts along those natural boundaries. Each resulting piece can then be exported and printed separately.
+
+Join the Discord for support: https://discord.gg/PAky55KCRA
